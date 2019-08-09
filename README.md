@@ -2,9 +2,8 @@
 C# Windows应用窗体用户自定义控件--开关实现
 利用两个开关图片实现开关控件
 
-
-
-
+![](https://github.com/SHAREVIEW/CSharp--Mycontroller/blob/master/Mycontroller/Mycontroller/Resources/switchoff.png)
+![](https://github.com/SHAREVIEW/CSharp--Mycontroller/blob/master/Mycontroller/Mycontroller/Resources/switchon.png)
 
 沿袭之前的做法，本人还是喜欢直接PS好图片后，用drawimage方法将图片绘制到用户控件上，启用双缓冲和背景透明，有些人说PS一张精美的图片也不是很容易，需要专业的，这里提供一个好方法，让你也可以获取到这些图片，其实大部分的APP都可以用解压软件打开，拓展名改为.zip即可，解压出来一般里面都含有绝大部分的图片，发现绝大部分的APP都喜欢用图片作为背景来展示一些效果，而不是原原本本的用代码一点点绘制。腾讯就是腾讯啊，大公司！人家的美工MM设计的图片那真的没得话说，绝对一流，手机QQ每次升级一个版本，都会下过来将里面的精美图片图标之类的提取出来，以便项目使用，（这不会算是盗版吧！）好了，开始正文吧！
 
